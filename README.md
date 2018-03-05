@@ -1,9 +1,9 @@
 # C07 - Metadata Site
 
 * Create a new web page similar to the sample file in the Metadata topic on OnCampus 
-* Use a topic of your choice. Suggested topics… music, pets, hobbies
-* Include a **couple of short paragraphs (2-3 sentences each)** 
-* Include **a list of links (at least 2)**
+* Use a topic of your choice. Suggested topics… :musical_note:, :cat:, :dog:, :basketball:, :baseball:, :soccer:, :high_heel:, :cookie:, etc.
+* Include a **couple of short paragraphs (:two:-:three: sentences each)** 
+* Include **a list of links (at least :two:)**
 * Make sure it has **all of the required metadata**:
     * Title
     * Charset
@@ -11,4 +11,4 @@
     * Keywords
     * Favicon is _optional_
 * Include a few **comments** throughout (including the header comment w/your name!)
-* Upload .html file using GitHub Assignment and submit [RawGit](https://rawgit.com/) link to OnCampus when it’s done
+* Upload .html file using :octocat:GitHub Assignment:octocat: and submit [RawGit](https://rawgit.com/) link to OnCampus when it’s done
